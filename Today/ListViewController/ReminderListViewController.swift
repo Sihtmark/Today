@@ -36,5 +36,5 @@ class ReminderListViewController: UICollectionViewController {
         listConfiguration.showsSeparators = false
         listConfiguration.backgroundColor = .clear
         return UICollectionViewCompositionalLayout.list(using: listConfiguration)
-    }
+    } 
 }
